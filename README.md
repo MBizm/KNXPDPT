@@ -1,6 +1,7 @@
 # KNXPDPT
 
-KNX data point type conversion lib
+##KNX data point type conversion lib
+
 **Disclaimer: This library will not be maintained but just serves general purpose to drive EIB/KNX Client and KNX Bridge development!!**
 
 Original author: Frédéric Mantegazza
