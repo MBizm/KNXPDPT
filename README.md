@@ -9,4 +9,4 @@
 - Who has stolen from: http://git.pknyx.org/pKNyX.git
 - Somehow P3-ified by: Michael Bernhardt [https://github.com/MBizm]
 
-'Every line of code is a bird poop in time...'
+´Every line of code is a bird poop in time...´
