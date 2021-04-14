@@ -229,8 +229,8 @@ if __name__ == '__main__':
             pass
 
         def test_display(self):
-            print repr(self.fb1)
-            print self.fb2
+            print(repr(self.fb1))
+            print(self.fb2)
 
         def test_constructor(self):
             pass
