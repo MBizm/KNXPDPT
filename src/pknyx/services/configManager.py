@@ -42,13 +42,11 @@ Implements
 
 __revision__ = "$Id$"
 
-import sys
 import os.path
 import shutil
-import sets
+import sys
 
 from pknyx.common import config
-from pknyx.common.utils import isOdd
 from pknyx.services.logger import Logger
 
 if hasattr(sys, "frozen"):

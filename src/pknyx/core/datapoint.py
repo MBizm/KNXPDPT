@@ -271,8 +271,8 @@ if __name__ == '__main__':
             pass
 
         def test_display(self):
-            print repr(self.dp)
-            print self.dp
+            print(repr(self.dp))
+            print(self.dp)
 
         def test_constructor(self):
             with self.assertRaises(DatapointValueError):
